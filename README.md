@@ -22,7 +22,9 @@ A modern graphical interface for the paqet network proxy.
 
 ## Screenshots 📸
 
-> Add your screenshots here
+<img width="1097" height="848" alt="image" src="https://github.com/user-attachments/assets/f5429165-8068-4e85-8398-c425eda532e8" />
+<img width="1093" height="846" alt="image" src="https://github.com/user-attachments/assets/bdc6cd67-4dec-4791-81a3-2c1922df83ce" />
+
 
 ## Download ⬇️
 
