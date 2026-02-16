@@ -41,7 +41,7 @@ except ImportError:
 # ============================================================================
 
 APP_NAME = "PaqetUI"
-APP_VERSION = "2.1.0"
+APP_VERSION = "2.1.4"
 APP_AUTHOR = "PaqetUI Team"
 
 if getattr(sys, 'frozen', False):
