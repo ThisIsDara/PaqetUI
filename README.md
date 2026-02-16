@@ -38,7 +38,7 @@ Get the latest release from [GitHub Releases](https://github.com/ThisIsDara/Paqe
 ## Requirements ⚙️
 
 - Windows 10/11
-- Npcap (for Windows)
+- [Npcap](https://npcap.com/#download) (for Windows)
 
 ## Build from Source 🛠️
 
