@@ -1,10 +1,10 @@
 # PaqetUI
 
-یک رابط گرافیکی مدرن برای پروکسی شبکه‌ای paqet.
+رابط گرافیکی مدرن و قدرتمند برای مدیریت پروکسی شبکه‌ای paqet با پشتیبانی از حالت کلاینت/سرور، تنظیمات پیشرفته KCP، لاگ زنده، تشخیص خودکار شبکه و مدیریت آسان فایل‌های YAML..
 
-[![لایسنس](https://img.shields.io/github/license/ThisIsDara/PaqetUI)](https://github.com/ThisIsDara/PaqetUI)
-[![نسخه](https://img.shields.io/github/v/release/ThisIsDara/PaqetUI)](https://github.com/ThisIsDara/PaqetUI)
-
+[![لایسنس](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
+[![نسخه](https://img.shields.io/github/v/tag/ThisIsDara/PaqetUI?label=release)](https://github.com/ThisIsDara/PaqetUI/releases/latest)
+[![Platform](https://img.shields.io/badge/Platform-Windows-blue)](https://github.com/ThisIsDara/PaqetUI)
 ## ویژگی‌ها
 
 - پشتیبانی از حالت کلاینت و سرور
