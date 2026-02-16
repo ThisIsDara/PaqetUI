@@ -6,9 +6,9 @@ A modern graphical interface for the paqet network proxy.
 
 ---
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/github/v/release/ThisIsDara/PaqetUI?include_prereleases&style=flat)](https://github.com/ThisIsDara/PaqetUI/releases/latest)
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)](https://github.com/ThisIsDara/PaqetUI)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
+[![Release](https://img.shields.io/github/release/ThisIsDara/PaqetUI)](https://github.com/ThisIsDara/PaqetUI/releases)
+[![Platform](https://img.shields.io/badge/Platform-Windows-blue)](https://github.com/ThisIsDara/PaqetUI)
 
 ## Features ✨
 
