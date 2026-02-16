@@ -56,6 +56,11 @@ pip install pyinstaller pyyaml
 python build.py
 ```
 
+## Language
+
+- [English](./README.md)
+- [فارسی](./README-FA.md)
+
 ## License
 
 MIT License
