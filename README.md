@@ -12,7 +12,6 @@ A modern graphical interface for the paqet network proxy.
 
 ## Features ✨
 
-- Modern dark theme (Discord/Linear inspired) 🌙
 - Client & Server mode support 🔄
 - Auto network interface detection 📡
 - KCP encryption configuration 🔐
